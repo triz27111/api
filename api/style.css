@@ -1,0 +1,29 @@
+
+body{
+    background-color: #3DB9FF;
+}
+.text_tittle{
+    color: black;
+    top: 380px;
+    left: 800px;
+    position: absolute;
+    font-family: 'Gorditas', serif;
+}
+
+
+.vermais_botão{
+    position: absolute;
+    top: 700px;
+    left: 800px;
+    width: 180px;
+    height: -15px;
+    border-radius: 600px;
+    background-color:#247FB2;
+    color: white;
+    border: none;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 18.5px 0px; 
+    font-family: 'Gorditas', serif;
+}
